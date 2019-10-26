@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 124">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0864af;
+        font-size: 100px;
+        font-family: GillSans-UltraBold, Gill Sans;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Profile" class="cls-1" transform="translate(0 99)"><tspan x="0" y="0">Profile</tspan></text>
+</svg>

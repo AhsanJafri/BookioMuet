@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1660 937.172">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: rgba(112,112,112,0.34);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        filter: url(#back_rec);
+      }
+    </style>
+    <filter id="back_rec" x="0" y="0" width="1660" height="937.172" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="White_Background" transform="translate(-120 -117)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 120, 117)">
+      <g id="back_rec-2" data-name="back_rec" class="cls-1" transform="translate(20 10)">
+        <rect class="cls-2" width="1630" height="907.172"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="1629" height="906.172"/>
+      </g>
+    </g>
+    <g id="middle_rec" class="cls-1" transform="translate(145 122)">
+      <rect class="cls-2" width="1630" height="907.172"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="1629" height="906.172"/>
+    </g>
+    <g id="front_rec" class="cls-1" transform="translate(150 117)">
+      <rect class="cls-2" width="1630" height="907.172"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="1629" height="906.172"/>
+    </g>
+  </g>
+</svg>

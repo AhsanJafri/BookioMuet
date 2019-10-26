@@ -1,0 +1,6 @@
+backgroud_yellow: #F2D738
+button_red: #F79256
+status_notconfirmed: #F80606
+status_confirmed: #4DF806
+font: Sergoe UI 
+font-color: 	
