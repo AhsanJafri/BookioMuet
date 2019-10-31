@@ -1,0 +1,3 @@
+Things needed to configure before using it( need pymysql library).
+All the api's made are for fecthing data from the database except the last one which
+is used to insert data into the database.
